@@ -1,3 +1,9 @@
+package bitmap
+
+import (
+	"fmt"
+	"strings"
+)
 
 const (
 	bitSize = 8
