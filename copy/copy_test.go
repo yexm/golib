@@ -11,7 +11,7 @@ func TestCopy(t *testing.T) {
 		Name string
 	}
 	stus := make([]student, 0, 1)
-	stus = append(stus, student{Name: "a"})
+	stus = append(stus, student{Name: "ab"})
 	stus1 := make([]student, 0, 1)
 	Copy(&stus1, stus)
 	spew.Dump(stus1)
