@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/rfyiamcool/golib/ringqueue"
+	"github.com/yexm/golib/ringqueue"
 )
 
 func main() {

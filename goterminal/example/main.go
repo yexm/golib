@@ -3,7 +3,7 @@ package main
 import (
 	"time"
 
-	"github.com/rfyiamcool/golib/goterminal"
+	"github.com/yexm/golib/goterminal"
 )
 
 func main() {

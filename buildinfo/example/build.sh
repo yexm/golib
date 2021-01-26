@@ -19,10 +19,10 @@ BuildGoVersion=`go version`
 
 # 将以上变量序列化至 LDFlags 变量中
 LDFlags=" \
-    -X 'github.com/rfyiamcool/golib/buildinfo.GitCommitLog=${GitCommitLog}' \
-    -X 'github.com/rfyiamcool/golib/buildinfo.GitStatus=${GitStatus}' \
-    -X 'github.com/rfyiamcool/golib/buildinfo.BuildTime=${BuildTime}' \
-    -X 'github.com/rfyiamcool/golib/buildinfo.BuildGoVersion=${BuildGoVersion}' \
+    -X 'github.com/yexm/golib/buildinfo.GitCommitLog=${GitCommitLog}' \
+    -X 'github.com/yexm/golib/buildinfo.GitStatus=${GitStatus}' \
+    -X 'github.com/yexm/golib/buildinfo.BuildTime=${BuildTime}' \
+    -X 'github.com/yexm/golib/buildinfo.BuildGoVersion=${BuildGoVersion}' \
 "
 
 ROOT_DIR=`pwd`

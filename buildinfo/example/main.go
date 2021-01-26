@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/rfyiamcool/golib/buildinfo"
+	"github.com/yexm/golib/buildinfo"
 )
 
 func main() {

@@ -3,7 +3,7 @@ package trylock_test
 import (
 	"fmt"
 
-	"github.com/rfyiamcool/golib/trylock"
+	"github.com/yexm/golib/trylock"
 )
 
 func Example() {

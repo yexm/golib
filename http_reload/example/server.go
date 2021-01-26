@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/rfyiamcool/golib/http_reload"
+	httpReload "github.com/yexm/golib/http_reload"
 )
 
 func main() {

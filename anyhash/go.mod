@@ -1,4 +1,4 @@
-module github.com/rfyiamcool/golib/anyhash
+module github.com/yexm/golib/anyhash
 
 go 1.12
 

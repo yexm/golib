@@ -1,4 +1,4 @@
-module github.com/rfyiamcool/golib
+module github.com/yexm/golib
 
 go 1.14
 
